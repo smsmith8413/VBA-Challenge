@@ -1,3 +1,4 @@
+Sub vbaChallengeWS()
 
 '-----loop through all worksheets----------
 For Each ws In Worksheets
